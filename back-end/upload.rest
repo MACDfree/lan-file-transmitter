@@ -1,0 +1,6 @@
+POST http://localhost:9800/rest/upload HTTP/1.1
+content-type: application/json
+
+{
+    "path": "D:\\macd\\Desktop\\招标工具.xmind"
+}
